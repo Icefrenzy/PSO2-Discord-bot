@@ -3,7 +3,7 @@
   "description": "",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node pso-parser/bot.js"
   },
   "author": "ActKz",
   "license": "",
